@@ -30,7 +30,7 @@ Then go to your Postman Client and:
 
 ### 2. Using curl
 
-Curl is a Command-Line based HTTP client and more. It is highly embedable.and has an insane number of use cases. Never mind, we will take it one step at a time and replicate what you have been doing so far. 
+Curl is a Command-Line based HTTP client and more. It is highly embedable and has an insane number of use cases. Never mind, we will take it one step at a time and replicate what you have been doing so far. 
 You will be using curl to communicate with the [Faker API](https://fakerapi.it/en), as you did with Postman in the previous exercise. 
 Lastly, you will have to save each response to a JSON format file. 
 
